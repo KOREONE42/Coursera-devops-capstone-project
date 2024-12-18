@@ -1,6 +1,6 @@
 ---
-name: DevOps Issue
-about: Describe this issue template's purpose here.
+name: user story
+about: user story issue
 title: ''
 labels: ''
 assignees: ''
